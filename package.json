@@ -8,5 +8,8 @@
     "start": "sass public/sass/style.scss public/css/style.css -w"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "duantn_quanaothethaonamseven": "file:"
+  }
 }
