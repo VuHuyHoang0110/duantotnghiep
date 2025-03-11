@@ -12,7 +12,7 @@
                             
                         </a>
                     </div>
-                    <p>Chào mừng bạn đến với TIKI nơi cung cấp những loại sách chất lượng</p>
+                    <p>Chào mừng bạn đến với Stevensport nơi cung cấp những loại quần thể thao chất lượng</p>
                     
                 </div>
             </div>
